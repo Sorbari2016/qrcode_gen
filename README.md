@@ -12,3 +12,4 @@
 - Npm. 
 - Webpack.
 - JQuery.
+- Bootstrap
