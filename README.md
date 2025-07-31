@@ -1,8 +1,8 @@
-# Restaurant Page Project
+# QR code Generator Project
 
 ## Project Overview
-- For this project, I am tasked with building a restaurant homepage using javascript mostly.
-- The whole restaurant page will be dynamically generated using Javascript. 
+- In this project my goal is to build a QR code generator. 
+- And use this as a means to learn how to work with more npm packages, and bundles.  
 
 
 
@@ -11,3 +11,4 @@
 - CSS.
 - Npm. 
 - Webpack.
+- JQuery.
